@@ -149,6 +149,14 @@ p {
   margin: 20px 10px;
 }
 
+.back-top {
+  color: #8f8f8f;
+}
+
+.back-top:hover {
+  color: #d3e0ea;
+}
+
 @media (max-width: 1028px) {
   #title {
     text-align: center;
